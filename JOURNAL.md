@@ -418,3 +418,68 @@ The project introduced me to:
 
 Nexis is still evolving, but it has already achieved its primary goal: turning an ambitious idea into a tangible engineering project.
 
+# Nexis Timeline
+
+03 Apr 2026
+Project ideation and HID research.
+
+18 Apr 2026
+Project vision documentation and portfolio planning.
+
+21 Apr 2026
+Initial OAI architecture exploration.
+
+22 Apr 2026
+OAI redesign and architecture definition.
+
+24 Apr 2026
+Project goals and long-term vision established.
+
+25 Apr 2026
+OAI implementation started.
+
+25 Apr 2026
+Early hardware experimentation and documentation.
+
+26 Apr 2026
+Code documentation and architecture refinement.
+
+27 Apr 2026
+Hardware architecture planning.
+
+28 Apr 2026
+Core OAI components completed.
+
+29 Apr 2026
+Feedback system and testing work.
+
+01 May 2026
+GitHub integration and debugging.
+
+02 May 2026
+Render deployment and online testing.
+
+08 May 2026
+OAI architecture documentation.
+
+19 May 2026
+Hardware acquisition and early CAD planning.
+
+24 May 2026
+Front enclosure CAD design.
+
+25 May 2026
+Rear enclosure CAD design.
+
+28 May 2026
+KiCad learning and PCB schematic creation.
+
+29 May 2026
+PCB schematic development.
+
+29 May 2026
+PCB component placement and integration.
+
+30 May 2026
+PCB design completion and enclosure refinement.
+
