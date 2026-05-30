@@ -1,5 +1,5 @@
 Part,Quantity,Purpose,Approx Cost (USD),Notes
-Raspberry Pi 5 (4GB),1,Main Controller,60,Runs UI voice processing and OAI communication
+Raspberry Pi 4 model B ,1,Main Controller,60,Runs UI voice processing and OAI communication
 Official Raspberry Pi Touchscreen,1,User Interface,60,Primary display for Nexis
 ESP32-S3 Dev Board,1,HID Controller,10,Keyboard and mouse emulation
 INMP441 I2S Microphone,1,Voice Input,3,Speech capture
