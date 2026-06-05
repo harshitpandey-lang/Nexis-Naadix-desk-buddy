@@ -68,20 +68,18 @@ Connected Computer
 
 ### Hardware
 
-|Component | Purpose |
-|Raspberry Pi 4 Model B |	Main computing unit |
-|Official Raspberry Pi Display | User interface |
-|ESP32-S3	| HID controller |
-|INMP441 Microphone	 | Voice input |
-|MAX98357A Amplifier | Audio output |
-|Speaker | Voice feedback |
-|Rotary Encoder |	Navigation control |
-|Push Buttons	| User interaction |
-|LiPo Battery |	Portable power |
+| Component | Purpose |
+| Raspberry Pi 4 Model B |	Main computing unit |
+| Official Raspberry Pi Display | User interface |
+| ESP32-S3	| HID controller |
+| INMP441 Microphone	 | Voice input |
+| MAX98357A Amplifier | Audio output |
+| Speaker | Voice feedback |
+| Rotary Encoder |	Navigation control |
+| Push Buttons	| User interaction |
+| LiPo Battery |	Portable power |
 
 See BOM.md for the complete bill of materials.
-
-See BOM.md for the complete list.
 
 ---
 
