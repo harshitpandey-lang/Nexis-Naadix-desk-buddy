@@ -8,6 +8,62 @@ Unlike the Raspberry Pi, the ESP32-S3 does not perform AI processing or task pla
 
 ---
 
+## Hardware Connections
+
+### Raspberry Pi 4 Model B
+
+* Acts as the main processing unit.
+* Runs the local AI models and backend services.
+* Communicates with the ESP32-S3.
+* Handles touchscreen interaction and task execution.
+
+### Official Raspberry Pi Display
+
+* Connected directly to the Raspberry Pi.
+* Used for the Nexis user interface.
+* Displays chats, status updates, and task progress.
+
+### ESP32-S3
+
+* Acts as the HID (Human Interface Device) controller.
+* Receives commands from the Raspberry Pi.
+* Emulates keyboard and mouse actions on the connected computer.
+
+### INMP441 Microphone
+
+* Connected to the Raspberry Pi through the I²S interface.
+* Captures voice commands and audio input.
+* Used for speech recognition and voice interaction.
+
+### MAX98357A Amplifier
+
+* Connected to the Raspberry Pi via I²S.
+* Converts digital audio into speaker output.
+* Provides audio feedback from Nexis.
+
+### Speaker
+
+* Connected to the MAX98357A amplifier.
+* Outputs voice responses and system notifications.
+
+### Rotary Encoder
+
+* Connected to Raspberry Pi GPIO pins.
+* Used for menu navigation and quick control.
+* Supports rotation and push-button actions.
+
+### Push Buttons
+
+* Connected to Raspberry Pi GPIO pins.
+* Used for shortcuts, confirmations, and system controls.
+
+### LiPo Battery
+
+* Powers the complete system.
+* Enables portable operation.
+* Can be paired with a charging and power management module.
+
+...
 # Firmware Objectives
 
 The firmware is designed to:
