@@ -156,11 +156,6 @@ This process continues until the entire workflow is completed.
 - I am grateful for the oppurtunity presented by the Hack Club called fallout, Which I am a part of and am proud of making this project under their guidance for more reference realted to the fallout event (https://fallout.hackclub.com/path).
 - I am also grateful for the help given by my seniors.
 
----
-<img width="1366" height="410" alt="model_nexis_2026-Jun-03_01-22-04AM-000_CustomizedView11063301339_png" src="https://github.com/user-attachments/assets/ef42fef7-eaa2-4801-a025-914a332a9eec" />
-<img width="1366" height="410" alt="model_nexis_2026-Jun-03_01-20-15AM-000_CustomizedView27867991317_png" src="https://github.com/user-attachments/assets/fed139fc-2f5e-46be-894c-0a300390143e" />
-<img width="1366" height="410" alt="model_nexis_2026-Jun-03_01-20-59AM-000_CustomizedView38618477084_png" src="https://github.com/user-attachments/assets/683c5ec4-a49e-458a-8d4e-0638fc4fad9f" />
-<img width="1366" height="410" alt="model_nexis_2026-Jun-03_01-21-36AM-000_CustomizedView11682904690_png" src="https://github.com/user-attachments/assets/4a57e69e-43c5-462c-ad04-e4bb52c520dc" />
 
 ---
 # Zine page
